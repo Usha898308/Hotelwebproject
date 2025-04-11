@@ -1,0 +1,108 @@
+body {
+  background-image: url(image2.jpg);
+   background-size: cover;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f5f5f5;
+}
+
+/* Header styles */
+header {
+  background-color: #333;
+  padding: 20px;
+  color: #fff;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Hero section styles */
+#hero {
+  background-image: url('hero-image.jpg');
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  padding: 100px;
+  color: #fff;
+}
+
+h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.btn {
+  display: inline-block;
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+/* Menu section styles */
+#menu {
+  background-color: #fff;
+  padding: 50px;
+}
+
+.menu-item {
+  margin-bottom: 30px;
+}
+
+h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+}
+
+/* Reservations section styles */
+#reservations {
+  background-color:dark;
+  text-align: center;
+  padding: 100px;
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+}
+.image-container {
+  width: 300px;
+  height: 200px;
+  background-image: url('paypal-1.jpg');
+  background-size: cover; 
+  background-repeat: no-repeat;
+}

@@ -1,0 +1,52 @@
+
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px;
+    background-image: url('Hotel.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+section {
+    padding: 50px;
+}
+
+.room {
+    margin-bottom: 30px;
+}
+
+.room img {
+    width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: dark;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}

@@ -1,0 +1,44 @@
+undefined
+"Big Data Analytics in Retail: Extreme Makeover: Unveiling Consumer Insights Through Data Mining
+
+undefined
+In fact, retail businesses today can access numerous sources of data, such as transaction information, customer reviews, and social media presence. This is sometimes referred to as Big Data and the sheer volume and detail of such information offers a valuable insight into customers’ habits and tendencies. Due to the highly competitive nature of the industry and the dynamic nature of customer preferences, the retail industry is a good candidate for Big Data analytics. Using data mining techniques, retailers can access concealed patterns and trends that can assist in changing the way decisions are made, introducing more precise approaches to marketing and delivering greater customer satisfaction. The purpose of this study is to identify opportunities within the retail industry for Big Data analytics, specifically the use of data mining to uncover insights about consumers.
+
+undefined
+There is often too much data available which makes it difficult for the retail industry to identify consumer trends. Conventional data analysis tools may not be useful in handling and analyzing such big data sets. This research seeks to solve the following research question; how Big Data analytics, with a specific focus on data mining, can be used to generate insights from retail data so that business can understand their customer needs in order to serve them appropriately.
+
+undefined
+What approach can be used to apply data mining techniques to Big Data analysis in the retail industry?
+The following are major consumer insights that can be drawn from Big Data analytics in retail:
+Lastly, how can these insights help in enhancing the customer experience and driving the business?
+undefined
+Thus, the purpose is to determine the most appropriate data mining methods that can be applied in the context of Big Data in retail.
+To use data mining in identifying important patterns and trends among the consumers.
+To examine how consumer insights obtained from Big Data analysis can be used in improving customer satisfaction and business outcomes.
+undefined
+Prior research has demonstrated that data mining techniques like clustering and association rule mining can generate useful information from the retail data. For instance, studies have revealed how these methods can detect buying trends and future behavior. However, some of the issues are as follows: Data integration; Data quality issues. This review will synthesize current findings and suggest directions for future studies, particularly in using such knowledge to enhance business strategies.
+undefined
+The study will employ a combination of both qualitative and quantitative research methods. Machine learning methods such as clustering and sentiment analysis will be used on the sample of the transaction data and customer reviews.
+undefined
+The study will be based on large retail businesses and their customers, especially those with a good track record on transactions and interaction.
+undefined
+Thus, the sample will consist of retail companies employing Big Data analytics and some of their consumer data.
+undefined
+Convenience sampling will target companies that have large amounts of data and are interested in data analysis. The sample of consumers will be selected in such a way that it is relevant and representative of the entire population.
+undefined
+Transactional and interaction data will be gathered from retail databases using a data extraction tool. Further qualitative data will be collected from interviews with key decision-makers in these companies.
+undefined
+Analyzing data involves using data mining analysis to identify features within dataset. Quantitative techniques will support these conclusions, while qualitative analyses will shed light on consumer interactions.
+undefined
+Some of the methods’ shortcomings are related to data confidentiality and the sampled population’s generalizability. Moreover, it is possible that several streams of data can be difficult to integrate.
+undefined
+• R Agrawal, V Khandelwal, B Agrawal, KK Yadav & K Agrawal (2017). Mining of Association Rules between Sets of Items in Large Databases.
+• Chen, M. , et al. (2018). Habitual sleep duration and risk of cardiovascular disease – A meta-analysis of prospective cohort studies. Sleep Medicine. undefined
+• Kumar, V. & Reinartz, W. (2019). Customer Relationship Management: The first one discusses the concept of PBL across the three elements, followed by its implementation strategy and tools.
+• Davenport, T. H., & Dyché, J. (2017). The Big Data in Big Companies.
+• Chen, H. , et al. (2018) Determination of residual stresses in friction stir welding of aluminum alloy and its effect on material properties. International journal of advanced manufacturing technology. Business Intelligence and Analytics: Big Data and even bigger Impact.
+• Russell, S. & Norvig, P. (2020). Artificial Intelligence: A Modern Approach.
+• Hastie, T. ; Tibshirani, R. ; J. H. Friedman (2017). The Elements of Statistical Learning: The primary activities of the process include Data Mining, Inference, and Prediction.
+• Provost, F., & Fawcett, T. (2017). Data Science for Business: The Basics of Data Mining and Data-Analytic Thinking That You Should Be Familiar With.
+• Witten, I. H., et al. (2019) Data Mining: Tools and Methods of Modern Applied Machine Learning.
+undefined Beyond the hype: Introduction to big data and its ideas, approaches and analysis.
